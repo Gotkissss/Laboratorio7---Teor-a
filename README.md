@@ -4,7 +4,7 @@ Programa en **Rust** que carga gramáticas libres de contexto desde archivos de 
 
 ## Video
 
-▶️ **Demostración (YouTube, no listado):** _agregar enlace aquí_
+**Demostración: ** https://youtu.be/oXTBVqJYoXg
 
 ## Contenido
 
